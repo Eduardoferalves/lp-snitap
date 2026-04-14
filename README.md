@@ -2,6 +2,8 @@
 
 Landing page de apresentação para a marca Snitap, criada com HTML e CSS.
 
+<img width="1905" height="1079" alt="image" src="https://github.com/user-attachments/assets/427a4dc0-4267-4949-89eb-bc1d0eeaa9cf" />
+
 ## Sobre o projeto
 
 Este projeto exibe uma página de produto com visual moderno, animações e transições focadas em experiência de usuário. O layout conta com seção hero, banner de rolagem, galeria de imagens e rodapé.
@@ -39,14 +41,6 @@ Este projeto exibe uma página de produto com visual moderno, animações e tran
 1. Abra o arquivo `index.html` em um navegador.
 2. Verifique se a pasta `assets` está no mesmo nível que o HTML.
 3. Navegue pelas seções para ver as animações em ação.
-
-## Imagem do projeto
-
-> Adicione a imagem do projeto aqui quando fizer o anexo.
-
-```md
-![Preview do projeto](./caminho/para-imagem.png)
-```
 
 ## Observações
 
